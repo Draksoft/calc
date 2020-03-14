@@ -1,0 +1,4 @@
+# -*- coding: utf-8 -*-
+import random
+lds = random.randint(1, 100)
+print ("maszyna losująca wypluła:", lds)
